@@ -1,0 +1,6 @@
+{
+  "name": "DarkSystem",
+  "short_name": "DarkSys",
+  "start_url": "/",
+  "display": "standalone"
+}
